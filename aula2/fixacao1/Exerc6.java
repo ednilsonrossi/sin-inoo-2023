@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Fix1_Exerc6 {
+public class Exerc6 {
 
     public static void main(String[] args) {
         Scanner myScanner = new Scanner(System.in);

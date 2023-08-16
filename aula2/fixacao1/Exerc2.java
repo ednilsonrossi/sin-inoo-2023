@@ -1,4 +1,4 @@
-public class Fix1_Exerc2 {
+public class Exerc2 {
     public static void main(String[] args) {
         
         int controle = 10;

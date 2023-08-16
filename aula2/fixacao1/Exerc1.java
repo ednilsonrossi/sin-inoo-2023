@@ -1,6 +1,6 @@
 
 
-public class Fix1_Exerc1 {
+public class Exerc1 {
 
     public static void main(String[] args) {
 
