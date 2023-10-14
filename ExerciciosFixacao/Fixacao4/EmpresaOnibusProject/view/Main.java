@@ -78,9 +78,6 @@ public class Main {
             System.out.println("Continuar leitura (1-sim/0-nao): ");
             continuar = input.nextInt();
         }while(continuar == 1);
-
-        
-
     }
 
     public static Passageiro lerPassageiro(int tipo){
