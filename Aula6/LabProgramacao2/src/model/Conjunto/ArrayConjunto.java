@@ -2,7 +2,7 @@ package model.Conjunto;
 
 public class ArrayConjunto<T> implements IConjunto<T>{
     
-    private static final int DEFAULT_SIZE = 10;
+    private static final int DEFAULT_SIZE = 5;
     private Object elements[];
     private int maxSize;
     private int size;
