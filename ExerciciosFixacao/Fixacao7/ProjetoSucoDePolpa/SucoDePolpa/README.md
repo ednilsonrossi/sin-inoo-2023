@@ -30,8 +30,7 @@ atributo apenas o valor da polpa. Por sua vez, a classe Suco possui os atributos
 os atributos principal e complementar, ambos do tipo Polpa. Assim, a composição é formalizada com a inclusão de objetos
 da **parte** como atributos do objeto **todo**.
 
-
-![](/home/ednilson/Documentos/workspace/sin-inoo-2023/ExerciciosFixacao/Fixacao7/ProjetoSucoDePolpa/SucoDePolpa/assets/classes.drawio.png)
+![](https://github.com/ednilsonrossi/sin-inoo-2023/blob/main/ExerciciosFixacao/Fixacao7/ProjetoSucoDePolpa/SucoDePolpa/assets/classes.drawio.png?raw=true)
 
 Observa-se nesse exemplo que a classe **todo** é composta por duas partes distintas, porém existem soluções que 
 utilizam a composição de apenas uma parte ou mesmo de muitas partes. Nesse último caso, seria gerada uma lista de 
