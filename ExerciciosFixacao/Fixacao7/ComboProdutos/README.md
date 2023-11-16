@@ -21,7 +21,7 @@ de venda do produto e registrando todos os valores recebidos.
 O diagrama é uma referência, está incompleto e apresenta a estrutura do software. Implemente o sistema usando divisão de
 responsabilidades.
 
-![](/home/ednilson/Documentos/workspace/sin-inoo-2023/ExerciciosFixacao/Fixacao7/ComboProdutos/assets/classes_combo_cantina.drawio.png)
+![](https://github.com/ednilsonrossi/sin-inoo-2023/blob/main/ExerciciosFixacao/Fixacao7/ComboProdutos/assets/classes_combo_cantina.drawio.png?raw=true)
 
 **Atenção:** No enunciado original não consta a classe Cardápio. Essa classe foi adicionada para permitir a 
 exemplificação de uma composição onde a classe todo (Cardapio) é composta por muitos (*) objetos de parte (Produto).  
